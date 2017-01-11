@@ -1,5 +1,5 @@
 ## Front-end-starter
 
-Front-end boilerplate code with gulp, bower, sasss, jquery, browser-sync 
+Front-end boilerplate code with [Gulp](http://gulpjs.com/), [Node](https://nodejs.org/), [NPM](https://www.npmjs.com/), [Bower](http://bower.io/), [Sass](http://sass-lang.com/)
 
-[Gulp](http://gulpjs.com/), [Node](https://nodejs.org/), [NPM](https://www.npmjs.com/), [Bower](http://bower.io/), [Sass](http://sass-lang.com/)
+
