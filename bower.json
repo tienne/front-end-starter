@@ -1,0 +1,14 @@
+{
+    "name": "web-starter-kit",
+    "dependencies": {
+        "jquery": "^1.11.1",
+        "bootstrap": "^3.3.7"
+    },
+    "overrides": {
+        "bootstrap": {
+            "main": [
+                "./dist/css/bootstrap.css"
+            ]
+        }
+    }
+}

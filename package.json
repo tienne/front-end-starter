@@ -1,0 +1,44 @@
+{
+  "name": "front-end-starter",
+  "title": "front-end-starter",
+  "description": "front-end-starter",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tienne/front-end-starter",
+  "author": {
+    "name": "tienne",
+    "url": "tienne89@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "tienne",
+      "email": "tienne89@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tienne/front-end-starter"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "browser-sync": "^2.18.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-eslint": "^3.0.1",
+    "gulp-filter": "^5.0.0",
+    "gulp-include": "^2.3.1",
+    "gulp-main-bower-files": "^1.6.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "minimist": "^1.2.0",
+    "run-sequence": "^1.2.2"
+  }
+}
